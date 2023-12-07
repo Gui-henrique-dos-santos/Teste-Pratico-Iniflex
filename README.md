@@ -51,4 +51,3 @@ O programa realiza as seguintes ações interativas:
 - Imprime quantos salários mínimos ganha cada funcionário.
 
 *Lembre-se de ajustar os comandos conforme necessário para o seu ambiente e sistema operacional.*
-```

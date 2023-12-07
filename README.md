@@ -34,17 +34,29 @@ java src.Principal
 Isso executará o programa e você verá a saída no console.
 
 Funcionalidades
+
 O programa realiza as seguintes ações:
 
 Adiciona funcionários.
+
 Remove funcionários.
+
 Imprime informações dos funcionários.
+
 Aumenta salários em 10%.
+
 Agrupa funcionários por função.
+
 Imprime funcionários agrupados por função.
+
 Imprime aniversariantes dos meses 10 e 12.
+
 Imprime o funcionário mais velho.
+
 Imprime a lista de funcionários por ordem alfabética.
+
 Imprime o total dos salários dos funcionários.
+
 Imprime quantos salários mínimos ganha cada funcionário.
+
 Lembre-se de ajustar os comandos conforme necessário para o seu ambiente e sistema operacional.

@@ -22,14 +22,19 @@ O projeto está organizado da seguinte forma:
    git clone https://github.com/seu-usuario/seu-repositorio.git
 
 Navegue até o diretório do projeto:
+
+ ```bash
 cd seu-repositorio
 
 Compile os arquivos Java:
+
+ ```bash
 javac src/*.java src/model/*.java src/controller/*.java src/view/*.java
 
 Execute o programa main:
 
-java src.Principal
+ ```bash
+        java src.main
 
 Isso executará o programa e você verá a saída no console.
 

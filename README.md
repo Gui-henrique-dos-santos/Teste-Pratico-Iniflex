@@ -43,5 +43,3 @@ O programa realiza as seguintes ações:
 - Imprime quantos salários mínimos ganha cada funcionário.
 
 *Lembre-se de ajustar os comandos conforme necessário para o seu ambiente e sistema operacional.*
-
-Espero que este guia seja útil!

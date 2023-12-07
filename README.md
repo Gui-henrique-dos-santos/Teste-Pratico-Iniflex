@@ -21,16 +21,24 @@
 4. **Execute o programa principal:**
 
    ```bash
-   java src.Principal
+   java src.Main
    ```
 
    Isso executará o programa e você verá a saída no console.
 
+5. **Execute a versão interativa (Main2):**
+
+   ```bash
+   java src.Main2
+   ```
+
+   Isso iniciará a versão interativa do programa, onde você pode realizar ações dinâmicas usando um menu interativo.
+
 ## Funcionalidades
 
-O programa realiza as seguintes ações:
+O programa realiza as seguintes ações interativas:
 
-- Adiciona funcionários.
+- Adiciona funcionários dinamicamente.
 - Remove funcionários.
 - Imprime informações dos funcionários.
 - Aumenta salários em 10%.
@@ -43,3 +51,4 @@ O programa realiza as seguintes ações:
 - Imprime quantos salários mínimos ganha cada funcionário.
 
 *Lembre-se de ajustar os comandos conforme necessário para o seu ambiente e sistema operacional.*
+```

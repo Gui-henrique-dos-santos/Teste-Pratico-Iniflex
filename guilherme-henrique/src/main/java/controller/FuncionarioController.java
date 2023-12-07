@@ -13,6 +13,9 @@ public class FuncionarioController {
     public FuncionarioController() {
         this.funcionarios = new ArrayList<>();
     }
+    public FuncionarioController(List<Funcionario> funcionarios) {
+        this.funcionarios = new ArrayList<>(funcionarios);
+    }
 
     public void adicionarFuncionario(Funcionario funcionario) {
         this.funcionarios.add(funcionario);

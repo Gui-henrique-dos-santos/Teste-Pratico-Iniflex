@@ -1,6 +1,3 @@
-
-```bash
-
 ## Como Usar
 
 1. **Clone o repositório:**
